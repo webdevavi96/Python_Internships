@@ -23,4 +23,4 @@ For questions or feedback, feel free to reach out.
 
 ---
 
-*Last updated: [Date]*
+*Last updated: 23-12-2025*
