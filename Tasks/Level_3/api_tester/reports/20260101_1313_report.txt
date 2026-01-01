@@ -1,2 +1,0 @@
-Get Users | Status: 200 | Success: True
-Create Post | Status: 201 | Success: True

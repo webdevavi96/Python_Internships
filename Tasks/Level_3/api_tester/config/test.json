@@ -7,7 +7,7 @@
             "expected_status": 200,
             "expected_keys": [
                 "id",
-                "name",
+                "name", 
                 "email"
             ]
         },

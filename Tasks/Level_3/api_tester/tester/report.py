@@ -8,3 +8,4 @@ def save_report(result):
         for res in result:
             line = f"{res["name"]} | Status: {res["status"]} | Success: {res["success"]} | Response Time: {res["response_time"]}\n"
             f.write(line)
+ 
