@@ -1,0 +1,290 @@
+{
+    "tests": [
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Get Users",
+            "method": "GET",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "expected_status": 200,
+            "expected_keys": [
+                "id",
+                "name",
+                "email"
+            ]
+        },
+        {
+            "name": "Create Post",
+            "method": "POST",
+            "url": "https://jsonplaceholder.typicode.com/posts",
+            "payload": {
+                "title": "Test",
+                "body": "Automation",
+                "userId": 1
+            },
+            "expected_status": 201
+        },
+        {
+            "name": "Create Post",
+            "method": "POST",
+            "url": "https://jsonplaceholder.typicode.com/posts",
+            "payload": {
+                "title": "Test",
+                "body": "Automation",
+                "userId": 2
+            },
+            "expected_status": 201
+        },
+        {
+            "name": "Create Post",
+            "method": "POST",
+            "url": "https://jsonplaceholder.typicode.com/posts",
+            "payload": {
+                "title": "Test",
+                "body": "Automation",
+                "userId": 3
+            },
+            "expected_status": 201
+        },
+        {
+            "name": "Create Post",
+            "method": "POST",
+            "url": "https://jsonplaceholder.typicode.com/posts",
+            "payload": {
+                "title": "Test",
+                "body": "Automation",
+                "userId": 4
+            },
+            "expected_status": 201
+        },
+        {
+            "name": "Create Post",
+            "method": "POST",
+            "url": "https://jsonplaceholder.typicode.com/posts",
+            "payload": {
+                "title": "Test",
+                "body": "Automation",
+                "userId": 5
+            },
+            "expected_status": 201
+        },
+        {
+            "name": "Create Post",
+            "method": "POST",
+            "url": "https://jsonplaceholder.typicode.com/posts",
+            "payload": {
+                "title": "Test",
+                "body": "Automation",
+                "userId": 6
+            },
+            "expected_status": 201
+        },
+        {
+            "name": "Create Post",
+            "method": "POST",
+            "url": "https://jsonplaceholder.typicode.com/posts",
+            "payload": {
+                "title": "Test",
+                "body": "Automation",
+                "userId": 7
+            },
+            "expected_status": 201
+        },
+        {
+            "name": "Create Post",
+            "method": "POST",
+            "url": "https://jsonplaceholder.typicode.com/posts",
+            "payload": {
+                "title": "Test",
+                "body": "Automation",
+                "userId": 8
+            },
+            "expected_status": 201
+        },
+        {
+            "name": "Create Post",
+            "method": "POST",
+            "url": "https://jsonplaceholder.typicode.com/posts",
+            "payload": {
+                "title": "Test",
+                "body": "Automation",
+                "userId": 9
+            },
+            "expected_status": 201
+        },
+        {
+            "name": "Create Post",
+            "method": "POST",
+            "url": "https://jsonplaceholder.typicode.com/posts",
+            "payload": {
+                "title": "Test",
+                "body": "Automation",
+                "userId": 10
+            },
+            "expected_status": 201
+        },
+        {
+            "name": "Create Post",
+            "method": "POST",
+            "url": "https://jsonplaceholder.typicode.com/posts",
+            "payload": {
+                "title": "Test",
+                "body": "Automation",
+                "userId": 11
+            },
+            "expected_status": 201
+        }
+    ]
+}
